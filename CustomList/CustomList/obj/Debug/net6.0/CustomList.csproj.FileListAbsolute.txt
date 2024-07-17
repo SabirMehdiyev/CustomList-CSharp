@@ -1,0 +1,14 @@
+C:\Users\Sabir\source\repos\CustomList\CustomList\bin\Debug\net6.0\CustomList.exe
+C:\Users\Sabir\source\repos\CustomList\CustomList\bin\Debug\net6.0\CustomList.deps.json
+C:\Users\Sabir\source\repos\CustomList\CustomList\bin\Debug\net6.0\CustomList.runtimeconfig.json
+C:\Users\Sabir\source\repos\CustomList\CustomList\bin\Debug\net6.0\CustomList.dll
+C:\Users\Sabir\source\repos\CustomList\CustomList\bin\Debug\net6.0\CustomList.pdb
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.dll
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\refint\CustomList.dll
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.pdb
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\CustomList.genruntimeconfig.cache
+C:\Users\Sabir\source\repos\CustomList\CustomList\obj\Debug\net6.0\ref\CustomList.dll
